@@ -44,26 +44,3 @@ hr{
 .text > h3{
     color: #C48738;
 }
-
-li{
-    list-style: none;
-    background-color: #7bb959;
-    padding: 10px;
-    margin-bottom: 5px;
-    border-style: solid;
-    border-width: 1px;
-    border-color: #5F8F45;
-   
-}
-
-li:hover{
-    background-color: #dda760;
-}
-
-a{
-    text-decoration: none;
-    color: black;
-}
-img{
-    width: 900px;
-}
